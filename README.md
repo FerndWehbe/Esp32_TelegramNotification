@@ -1,4 +1,4 @@
-#Projeto de Iniciação Cientifica.
+# Projeto Desenvolvido com objetivo de auxiliar na segurança domiciliar e com foco no baixo custo.
 
 ## Segurança dominicilizar com IOT.
 
@@ -8,6 +8,13 @@
     Criar um ambiente virtual e instalar as dependencias com pip install -r requirements.txt
 
 ##### * Criar um bot do telegram e inserior o token no arquivo config.ini
+
+###### Para criação do bot basta seguir o tutorial abaixo.
+       
+    > https://help.huggy.io/telegram-bot/como-configurar-o-telegram-bot
+
+###### Com o bot criado basta preencher as informções do config.ini
+
 
 ##### * Instalar o modulo da espcam seguindo o tutorial a baixo
     > https://www.filipeflop.com/blog/esp-32-camera-ip/
