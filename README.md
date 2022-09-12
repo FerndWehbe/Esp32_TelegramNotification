@@ -19,8 +19,8 @@
 ##### * Instalar o modulo da espcam seguindo o tutorial a baixo
     > https://www.filipeflop.com/blog/esp-32-camera-ip/
 
-Apos a intalação pasta inserior a url de acesso á camera no config.ini
+Apos a intalação pasta inserir a url de acesso á camera no config.ini
 
 ##### Configuração adicional:
 
-    Por padrão as notificações em um intervalo de 1 minuto, caso queria alterar, basta mudar o valor no arquivo de configuração.
+    Por padrão as notificações tem um intervalo de 1 minuto, caso queria alterar, basta mudar o valor no arquivo de configuração.
